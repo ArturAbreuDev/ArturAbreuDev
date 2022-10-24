@@ -1,4 +1,4 @@
-### Hi there 👋### Olá 👋.
+### Olá 👋.
 
 - 🔭 Atualmente estou procurando uma vaga de junior ou estagiario!
 - 🌱 Estou aprendendo React;
