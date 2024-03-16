@@ -1,10 +1,10 @@
 ### Olá 👋,
 
-Sou Artur Abreu, um desenvolvedor web e mobile com um ano de experiência profissional. Atualmente, estou em busca de oportunidades como desenvolvedor júnior ou estagiário.
+Sou Artur Abreu, um desenvolvedor web e mobile com mais de um ano de experiência profissional.
 
-- 🔭 No momento, estou empregado e trabalhando com as seguintes tecnologias:
-  - Front-end: React, Next.js, React Native, Tailwind CSS
-  - Back-end: Node.js, Firebase
+- 🔭 Atualmente estou empregado e trabalhando com as seguintes tecnologias:
+  - Front-end: React, Next.js, Tailwind CSS
+  - Back-end: Node.js
   - Banco de Dados: MySQL
 - 🌱 Estou expandindo meu conhecimento em Python.
 - 👯 Estou aberto a colaborar em projetos tanto no back-end quanto no front-end.
@@ -23,8 +23,9 @@ Sou Artur Abreu, um desenvolvedor web e mobile com um ano de experiência profis
   <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Next.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="Tailwind CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
+  <img align="center" alt="Tailwind CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
   <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
   <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
