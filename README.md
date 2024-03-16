@@ -3,8 +3,8 @@
 I'm Artur Abreu, a web and mobile developer with over a year of professional experience.
 
 - 🔭 Currently, I'm employed and working with the following technologies:
-  - Front-end: [React](https://reactjs.org/), [Next.js](https://nextjs.org/), [Tailwind CSS](https://tailwindcss.com/)
-  - Back-end: [Node.js](https://nodejs.org/)
+  - Front-end: React, Next.js, Tailwind CSS
+  - Back-end: Node.js
   - Database: MySQL
 - 🌱 I'm expanding my knowledge in Python.
 - 👯 I'm open to collaborate on projects both in the back-end and front-end.
@@ -23,7 +23,6 @@ I'm Artur Abreu, a web and mobile developer with over a year of professional exp
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
   <a href="https://reactjs.org/" target="_blank"><img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>
   <a href="https://nextjs.org/" target="_blank"><img align="center" alt="Next.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"></a>
-  <a href="https://reactnative.dev/" target="_blank"><img align="center" alt="React Native" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>
   <a href="https://tailwindcss.com/" target="_blank"><img align="center" alt="Tailwind CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"></a>
   <a href="https://nodejs.org/" target="_blank"><img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></a>
   <a href="https://firebase.google.com/" target="_blank"><img align="center" alt="Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg"></a>
