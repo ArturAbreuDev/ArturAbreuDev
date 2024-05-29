@@ -6,7 +6,7 @@ I'm Artur Abreu, a web and mobile developer with over a year of professional exp
   - Front-end: React, Next.js, Tailwind CSS
   - Back-end: Node.js
   - Database: MySQL
-- 🌱 I'm expanding my knowledge in Python.
+- 🌱 I'm expanding my knowledge in Java.
 - 👯 I'm open to collaborate on projects both in the back-end and front-end.
 - 📫 You can reach me via email: arturabreu100@gmail.com.
 
